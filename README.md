@@ -70,7 +70,7 @@ Inspired by similar systems seen in projects like Makireddyvighnesh’s Financia
    ```bash
    git clone https://github.com/venkatavinayvijjapu/Financial-News-Impact-Analyzer.git
    cd Financial-News-Impact-Analyzer
-```
+
 2. **Install dependencies**
 
    ```bash
