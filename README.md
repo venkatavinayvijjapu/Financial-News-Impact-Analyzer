@@ -123,11 +123,6 @@ Inspired by similar systems seen in projects like Makireddyvighnesh’s Financia
 
 ---
 
-## 📄 License
-
-Licensed under **Apache-2.0** — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 📞 Contact
 
