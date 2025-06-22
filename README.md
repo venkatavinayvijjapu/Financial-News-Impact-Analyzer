@@ -7,7 +7,7 @@ Analyze how financial news influences market movements through an intelligent mu
 
 ## 🔗 Live Demo  
 Check out a quick demo walkthrough:  
-https://www.veed.io/view/4212abdf-1d4c-44cb-868d-148649869feb?panel=share  
+[https://www.veed.io/view/4212abdf-1d4c-44cb-868d-148649869feb?panel=share  ](https://www.veed.io/view/fc8627eb-d652-4b6f-b866-2b5247325f3a?panel=share)
 
 ---
 
