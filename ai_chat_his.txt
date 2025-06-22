@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-06-22 23:59:43",
+  "topic": "Tesla earnings",
+  "article_id": "a086b99d6e23b8d5",
+  "headline": "BYD stock plunges after price cuts as EV sales surpass Tesla in Europe",
+  "published_at": "4 weeks ago",
+  "final_analysis": {
+    "sentiment": "negative",
+    "impact_level": "high",
+    "risks": [
+      "financial"
+    ],
+    "tickers": [],
+    "decision": "Potential Downturn / Monitor"
+  }
+}
+
+{
+  "timestamp": "2025-06-23 00:00:06",
+  "topic": "Good service tax",
+  "article_id": "7f02f1797922a62a",
+  "headline": "Maldives Tax Law Amendments: Key Changes Ratified",
+  "published_at": "7 months ago",
+  "final_analysis": {
+    "sentiment": "neutral",
+    "impact_level": "low",
+    "risks": [
+      "regulatory"
+    ],
+    "tickers": [],
+    "decision": "Low Impact / No Action"
+  }
+}
+
+{
+  "timestamp": "2025-06-23 00:00:50",
+  "topic": "Russia budget for dead hand",
+  "article_id": "586d783a7c99696e",
+  "headline": "The I.N.F. Treaty, Explained (Published 2018)",
+  "published_at": "79 months ago",
+  "final_analysis": {
+    "sentiment": "neutral",
+    "impact_level": "low",
+    "risks": [
+      "geopolitical"
+    ],
+    "tickers": [],
+    "decision": "Low Impact / No Action"
+  }
+}
+
